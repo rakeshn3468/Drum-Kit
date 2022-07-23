@@ -4,6 +4,7 @@
 // function handleclick(){
 //   alert("i got clicked");
 // }
+alert('Use PC or Laptop for Better Experience')
 var dom=document.querySelectorAll(".drum").length;
 for (var i=0;i<dom;i++){
   document.querySelectorAll(".drum")[i].addEventListener("click",function(){
